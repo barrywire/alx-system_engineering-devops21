@@ -14,3 +14,7 @@ This directory contains creation of the following files:
 11-binary_to_decimal: Convert a number from binary to decimal
 12-combinations: Print combinations of letters from a -z without including oo
 13-print_float: Print a number with two decimal places.
+100-decimal_to_hexadecimal: Convert a number from base 10 to base 16
+101-rot13: Encode and decode text using the rot13 encryption. Assumes ASCII
+102-odd: Print every other line from the input, starting with the first line
+103-water_and_stir: Add two numbers stored in different environment variables - WATER and STIR
