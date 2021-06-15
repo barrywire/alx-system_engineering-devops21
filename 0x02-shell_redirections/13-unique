@@ -1,2 +1,2 @@
 #!/bin/bash
-*input* | *output* | sort 
+input | echo | sort 

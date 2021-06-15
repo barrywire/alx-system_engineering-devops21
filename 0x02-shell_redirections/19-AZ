@@ -1,2 +1,2 @@
 #!/bin/bash
-*input* | sed 's/A/Z' | sed 's/c/e'
+read | sed 's/A/Z' | sed 's/c/e'

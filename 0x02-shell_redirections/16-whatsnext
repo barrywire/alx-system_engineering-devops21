@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la /etc/passwd | grep -B <3> "/etc/passwd"
+cat /etc/passwd | grep -B <3> "/etc/passwd"
