@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv
+printenv | $HBTN="wc-l" | echo "HBTN=$HBTN"
