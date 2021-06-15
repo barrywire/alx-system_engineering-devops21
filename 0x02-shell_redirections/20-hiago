@@ -1,2 +1,2 @@
 #!/bin/bash
-read | sed '/c/d' | sed '/C/d'
+tr -d 'c' | tr -d 'C'
